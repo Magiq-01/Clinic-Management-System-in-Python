@@ -1,0 +1,10 @@
+===============Patient's Record===============
+Name: Bingo ng
+Age: 18
+Birth (DD/MM/YY): 27/01/2006
+Gender: Male
+Contact: 0123456789
+27/1/2006
+Additional Notes: Aids risk -75.8%
+28/1/2006
+Additional Notes: Currently under quarantine

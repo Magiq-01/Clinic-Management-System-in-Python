@@ -1,0 +1,6 @@
+===============Registration===============
+Name: lam
+Age: 62
+Birth: 1 march 2001
+Gender: male
+Contact: 0129981411

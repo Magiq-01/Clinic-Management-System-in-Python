@@ -1,0 +1,6 @@
+===============Patient's Record===============
+Name: mark tan
+Age: 26
+Birth: 1/6/2000
+Gender: male
+Contact: 0128931411

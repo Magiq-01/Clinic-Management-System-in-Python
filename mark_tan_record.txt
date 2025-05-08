@@ -1,0 +1,6 @@
+===============Patient's Record===============
+Name: mark tan
+Age: 56
+Birth: 2003/3/8
+Gender: male
+Contact: 5156613
